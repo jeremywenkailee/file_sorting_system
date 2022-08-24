@@ -1,0 +1,32 @@
+{
+    "filters": [
+        {
+            "name": "Graphics",
+            "type": [".jpg",".jpeg",".png",".psd",".tiff",".CR3"]
+        },
+        {
+            "name": "Presentations",
+            "type": [".pptx",".ppt"]
+        },
+        {
+            "name": "Documents",
+            "type": [".docx",".doc",".pdf",".epub", ".xlsx"]
+        },
+        {
+            "name": "Notes",
+            "type": [".txt"]
+        },
+        {
+            "name": "Audio and Video",
+            "type": [".mov",".mp4",".mp3"]
+        },
+        {
+            "name": "Compressed",
+            "type": [".zip",".tar"]
+        },
+        {
+            "name": "Programming",
+            "type": [".cpp",".py",".json",".js",".css",".html",".ts"]
+        }
+    ]
+}
