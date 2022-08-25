@@ -13,5 +13,5 @@ A sample filters.json has been provided. To add more folders/selectors, add a ne
 Subdirectories can be made by adding a new node with "Parent\\Child" folder names in the name descriptor.
 
 ## RUNNING THE PROGRAM
--navigate to the root folder
--type ```python file_organizer.py``` into the command line
+- navigate to the root folder
+- type ```python file_organizer.py``` into the command line
